@@ -58,4 +58,4 @@ Raghav Kohli-23BCI0219
 
 ## License
 
-This project not licensed.
+This project is not licensed.
